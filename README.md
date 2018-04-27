@@ -13,6 +13,7 @@ A curated resource for all things pertaining to volumetric filmmaking. This list
 
 
 ## What is Volumetric Filmmaking?
+![ITP Lidar Scan](https://github.com/juniorxsound/awesome-volumetric-filmmaking/blob/master/images/lidar.png)
 Volumetric Filmmaking is a growing movement in immersive (AR/VR/MR) content characterized by interactive experiences created using predominantly 3D scanned imagery, such as volumetric video and photogrammetry, in conjunction with game engines to enable viewer agency within reconstructed lifelike environments.
 
 A true hybrid of video games and cinema, volumetric filmmaking draws inspiration from related creative disciplines, most notably documentary film, immersive theater, cinematic 360 virtual reality, interactive installations, choose-your-own-adventure books, walking simulator games, and generative art.
