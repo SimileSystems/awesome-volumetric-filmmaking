@@ -28,14 +28,14 @@ Volumetric films commonly include magical realism, futurism, dreamworlds and cyb
 ## Hardware
 
 |Camera|Kinect v1|Kinect v2|Asus Xtion PRO|Intel RealSense D415|Intel RealSense D435|StereoLabs ZED|
-| ------------- |:-------------:| -----:| ---|---|---|---|
+|:-------------:|:-------------:|:-----:|:---:|:---:|:---:|:---:|
 | **Method** |IR|IR|---|---|---|---|
 | **Range** |1.2m - 3.5m|0.5m – 4.5m|---|---|---|---|---|
-| **Color Resolution** |---|1920×1080, 30 FPS|---|---|---|---|
-| **Depth Resolution** |---|512×424, 30 FPS|---|---|---|---|
+| **Color Resolution** |640×480, 30 FPS|1920×1080, 30 FPS|---|---|---|---|
+| **Depth Resolution** |640×480, 30 FPS|512×424, 30 FPS|---|---|---|---|
 | **Supported On** |Windows|Windows|---|---|---|---|
 | **Connectivity** |USB 2.0|USB 3.0|---|---|---|---|---|
-| **Price** |---|249$ (MSRP)|---|---|---|
+| **Price** |150$ (MSRP)|249$ (MSRP)|---|---|---|
 
 > Thanks to this awesome post by [Stimulant](https://stimulant.com/depth-sensor-shootout-2/)
 
