@@ -22,6 +22,18 @@ Volumetric films commonly include magical realism, futurism, dreamworlds and cyb
 ## Projects
 
 ## Tools
+**DepthKit**  
+https://depthkit.tv  
+Depthkit supplements the camera you have, and the video production tools you use with the power of 3D sensing. It enables anyone to capture lifelike volumetric performances and easily integrate them into virtual environments.
+
+**Volume**  
+https://volume.gl  
+Volume is a tool for reconstructing a single 2D image or video in 3D space. Using state-of-the-art machine learning research, Volume is able to generate a 3D asset from a single view.
+
+**Open source plugins and tools:**
+- [DepthKit for A-Frame](https://github.com/juniorxsound/DepthKit-A-Frame)
+- [DepthKit.js](https://github.com/juniorxsound/DepthKit.js)
+- [DepthKit for Max/MSP](https://github.com/juniorxsound/DepthKit-for-Max)
 
 ## Tutorials
 
@@ -37,8 +49,12 @@ Volumetric films commonly include magical realism, futurism, dreamworlds and cyb
 | **Connectivity** |USB 2.0|USB 3.0|---|---|---|---|---|
 | **Price** |150$ (MSRP)|249$ (MSRP)|---|---|---|
 
-> Thanks to this awesome post by [Stimulant](https://stimulant.com/depth-sensor-shootout-2/)
+> Thanks to [this awesome post](https://stimulant.com/depth-sensor-shootout-2/) by Stimulant
 
 ## Meetups
+**New York City** - [Volumetric Filmmaking NYC](https://www.meetup.com/volumetric_filmmakers_vfnyc/)
+
+
+
 
 > This list is currently WIP as items are added!
