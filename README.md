@@ -27,6 +27,14 @@ Volumetric films commonly include magical realism, futurism, dreamworlds and cyb
 
 ## Hardware
 
+|Camera|Kinect v1|Kinect v2|Asus Xtion PRO|Intel RealSense D415|Intel RealSense D435|StereoLabs ZED|
+| ------------- |:-------------:| -----:| ---|---|---|---|
+| **Sensor Type** |---|---|---|---|---|---|
+| **Color Resolution** |---|---|---|---|---|---|
+| **Depth Resolution** |---|---|---|---|---|---|
+| **OS** |---|---|---|---|---|---|
+| **Price** |---|---|---|---|---|
+
 ## Meetups
 
 > This list is currently WIP as items are added!
