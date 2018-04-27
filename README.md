@@ -20,6 +20,11 @@ A true hybrid of video games and cinema, volumetric filmmaking draws inspiration
 Volumetric films commonly include magical realism, futurism, dreamworlds and cyberpunk themes and references.
 
 ## Projects
+**Tzina: Symphony of Longing**  
+WebVR • 2017  
+http://tzina.space  
+
+
 
 ## Tools
 **DepthKit**  
@@ -31,6 +36,7 @@ https://volume.gl
 Volume is a tool for reconstructing a single 2D image or video in 3D space. Using state-of-the-art machine learning research, Volume is able to generate a 3D asset from a single view.
 
 **Open source plugins and tools:**
+- [Pseudoscience Stereo2Depth](https://www.reddit.com/r/6DoF/comments/7t077j/stereo2depth_batch_processing_an_image_sequence/)
 - [DepthKit for A-Frame](https://github.com/juniorxsound/DepthKit-A-Frame)
 - [DepthKit.js](https://github.com/juniorxsound/DepthKit.js)
 - [DepthKit for Max/MSP](https://github.com/juniorxsound/DepthKit-for-Max)
