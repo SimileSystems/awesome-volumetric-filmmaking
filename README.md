@@ -21,9 +21,30 @@ A true hybrid of video games and cinema, volumetric filmmaking draws inspiration
 Volumetric films commonly include magical realism, futurism, dreamworlds and cyberpunk themes and references.
 
 ## Projects
-**Tzina: Symphony of Longing**  
-WebVR • 2017  
+### Depthkit
+**2018 | Terminal 3**  
+Hololens  
+https://1ric.com/terminal-3
+
+**2018 | Vestige**  
+Oculus / Vive  
+http://vestige-vr.com/
+
+**2018 | Queerskins**  
+Oculus  
+http://vr.queerskins.com/
+
+**2018 | Made This Way**  
+Vive  
+https://www.facebook.com/madethiswayproject/
+
+**2017 | Tzina: Symphony of Longing**  
+WebVR  
 http://tzina.space  
+
+**2017 | Zero Days VR**  
+Oculus / Vive  
+https://www.zerodaysvr.com/
 
 
 
@@ -41,6 +62,9 @@ Volume is a tool for reconstructing a single 2D image or video in 3D space. Usin
 - [DepthKit for A-Frame](https://github.com/juniorxsound/DepthKit-A-Frame)
 - [DepthKit.js](https://github.com/juniorxsound/DepthKit.js)
 - [DepthKit for Max/MSP](https://github.com/juniorxsound/DepthKit-for-Max)
+
+**Relevant Lists**
+- [Awesome 3D Reconstruction](https://github.com/openMVG/awesome_3DReconstruction_list)
 
 ## Tutorials
 
