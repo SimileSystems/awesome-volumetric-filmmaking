@@ -83,7 +83,7 @@ Volume is a tool for reconstructing a single 2D image or video in 3D space. Usin
 > Thanks to [this awesome post](https://stimulant.com/depth-sensor-shootout-2/) by Stimulant
 
 ## Meetups
-**New York City** - [Volumetric Filmmaking NYC](https://www.meetup.com/volumetric_filmmakers_vfnyc/)
+**New York City** - [Volumetric Filmmakers NYC](https://www.facebook.com/VolumetricFilmmakersNYC/)
 
 
 
